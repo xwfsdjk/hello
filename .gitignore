@@ -1,0 +1,8 @@
+/target/
+*.iml
+*.project
+/.settings/
+/logs/
+*.log
+/.idea/
+*.properties
